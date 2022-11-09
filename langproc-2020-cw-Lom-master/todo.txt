@@ -1,0 +1,45 @@
+1. other assignment operators X
+2.declaration assignment statements X
+eg. int x = 5;
+3.make all expressions work with variables not just consts X
+eg. int x = z+y;
+-----VARIABLES DONE------
+1.Test compiler
+2.**improper input** check that you dont add a symbol if its already in the current scope X
+3.add nested scope logic X
+4.if statements X
+5.while loops X
+6.less than or equal to wrong X
+7.add return address logic X
+8.things that need loops in expressions DOM X
+
+-----BASIC DONE----------
+1.for loops     DOM  X
+2.local and global arrays LEO X
+3.files containing multiple functions that call each other X
+4.four arguments in functions LEO X
+5.recursive function calls LEO X
+6.the enum keyword DOM
+7.switch statements DOM X
+8.the break and continue keywords DOM X
+9. break and default in switches X
+10. comments, pointers and enum
+------INTERMEDIATE DONE----------------------------------
+1.variables of double, float, char, unsigned, structs, and pointer types
+
+DONE----
+2.calling externally-defined functions (i.e. the file being compiled declares a function, but its definition is provided in a different file that is linked in later on)
+3.functions that take more than four parameters
+4.mutually recursive function calls
+5.locally scoped variable declarations (e.g. a variable that is declared inside the body of a while loop, such as while(...) { int x = ...; ... }. X
+DONE----
+
+6.the typedef keyword
+7.the sizeof(...) function (which takes either a type or a variable)
+8.pointers
+
+9.character literals, including escape sequences like \n
+10.strings (as NULL-terminated character arrays)
+11.declaration and use of structs
+
+
